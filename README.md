@@ -12,3 +12,7 @@
 
 ## Preview  🎥
 - https://www.loom.com/embed/fc6f89a8f6b649b0826d427a6272972b
+
+## API:
+- https://github.com/jessikasousa/github-repositories-api
+- https://github-repositories-api.herokuapp.com/
